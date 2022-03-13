@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Ann0nip.com',
   author: '@ann0nip',
-  headerTitle: 'Ann0nip.com',
+  headerTitle: 'nn0nip.com',
   description: `I'm building this website/blog ignoring other problems in my life to share with you many recommendations based on my experiences, like places to visit, places to work remotely, places to drink/eat, cryptocurrency stuff, and more. I hope you enjoy your stay.`,
   language: 'es-ar',
   theme: 'system', // system, dark or light
