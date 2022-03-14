@@ -1,7 +1,7 @@
 ---
-title: Sample .md file
-date: '2016-03-08'
-tags: ['markdown', 'code', 'features']
+title: Hello world
+date: '2022-03-13'
+tags: ['intro']
 draft: false
 summary: Example of a markdown file with code blocks and syntax highlighting
 ---

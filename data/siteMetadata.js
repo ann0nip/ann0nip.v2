@@ -2,7 +2,8 @@ const siteMetadata = {
   title: 'Ann0nip.com',
   author: '@ann0nip',
   headerTitle: 'nn0nip.com',
-  description: `I'm building this website/blog ignoring other problems in my life to share with you many recommendations based on my experiences, like places to visit, places to work remotely, places to drink/eat, cryptocurrency stuff, and more. I hope you enjoy your stay.`,
+  // description: `I'm building this website/blog ignoring other problems in my life to share with you many recommendations based on my experiences, like places to visit, places to work remotely, places to drink/eat, cryptocurrency stuff, and more. I hope you enjoy your stay.`,
+  description: `Estoy construyendo este sitio web/blog ignorando otros problemas en mi vida para compartir con ustedes recomendaciones basadas en mis experiencias, como lugares para visitar, trabajar de forma remota, beber y comer, temas relacionados a las criptomonedas y más ⚡️`,
   language: 'es-ar',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.ann0nip.com',
